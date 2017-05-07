@@ -162,6 +162,7 @@ _Response_
 {
     "Message": "Your order costs $15.00. We will email you when the order is ready. Thank you!"
 }
+```
 
 3. GET /order/{order-id}
 
