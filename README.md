@@ -1,7 +1,6 @@
 # CMPE273 assignment2 -- pizza-order-lambda
-Lambda functions written in python linked to Amazon Apigateway. Simulates menu management and customer orders.
-https://github.com/sithu/cmpe273-spring17/tree/master/assignment2
-Invoke URL: https://n1vzr0808c.execute-api.us-west-1.amazonaws.com/prod
+Lambda functions written in python linked to Amazon Apigateway.<br>Simulates menu management and customer orders.<br><br>
+Invoke URL: https://n1vzr0808c.execute-api.us-west-1.amazonaws.com/prod<br><br>
 
 1. POST /menu
 
@@ -100,7 +99,7 @@ _Response_
 200 OK
 ```
 
-
+<br><hr><br>
 1. POST /order
 
 _Request_
